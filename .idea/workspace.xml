@@ -221,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613151298835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added tests">
+      <created>1613152462424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613152462424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -264,7 +271,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed lab4 files" />
     <MESSAGE value="fixed lab4 files again" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed lab4 files again" />
+    <MESSAGE value="Added tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
