@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/AddressBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/AddressBookRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/BuddyInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/BuddyInfoRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/MainController.class" beforeDir="false" />
-    </list>
+    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,9 +84,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="2560" />
@@ -398,7 +387,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613160781263</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fix travis">
+      <created>1613161131417</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1613161131417</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix deploy">
+      <created>1613161296996</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1613161296996</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix deploy">
+      <created>1613161371574</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613161371574</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -451,7 +461,8 @@
     <MESSAGE value="more fixes" />
     <MESSAGE value="fixes" />
     <MESSAGE value="fix travis" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix travis" />
+    <MESSAGE value="fix deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix deploy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
