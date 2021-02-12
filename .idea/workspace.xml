@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="">
+    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="more fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613154425649</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added readme">
+      <created>1613154684991</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613154684991</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -311,7 +319,8 @@
     <MESSAGE value="Fixed things" />
     <MESSAGE value="Fixed things for heroku" />
     <MESSAGE value="Fixed things for travis jdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed things for travis jdk" />
+    <MESSAGE value="added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
