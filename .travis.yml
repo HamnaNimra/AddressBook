@@ -6,4 +6,3 @@ deploy:
   api_key:
     secure: $HEROKU_API_KEY
   app: addressbooklab5
-  skip_cleanup: true
