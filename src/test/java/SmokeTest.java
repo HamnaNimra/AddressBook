@@ -1,5 +1,4 @@
-package AddressBook;
-
+import AddressBook.AddressBookRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -12,10 +11,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class SmokeTest {
 
     @Autowired
-    private AddressBookRepository addressBookrepo;
+    private AddressBookRepository addressBookRepository;
 
     @Test
     public void contextLoads() throws Exception {
-        Assertions.assertThat(addressBookrepo).isNotNull();
+        Assertions.assertThat(addressBookRepository).isNotNull();
     }
 }

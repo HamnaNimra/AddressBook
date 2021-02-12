@@ -11,7 +11,16 @@
   <component name="ChangeListManager">
     <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/AddressBook_jar/AddressBook.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AddressBook_jar/AddressBook.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBook/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBook/HttpRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HttpRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBook/SmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/AddressBook.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/AddressBook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/AddressBookResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/AddressBookResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BuddyInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/BuddyInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BuddyInfoResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/BuddyInfoResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613152712227</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added heroku">
+      <created>1613152969405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613152969405</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -280,7 +296,8 @@
     <MESSAGE value="fixed lab4 files again" />
     <MESSAGE value="Added tests" />
     <MESSAGE value="Added .travis.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .travis.yml" />
+    <MESSAGE value="Added heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added heroku" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
