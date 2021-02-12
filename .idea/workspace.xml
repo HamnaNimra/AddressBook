@@ -9,8 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="fixes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBook/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddressBook/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AddressBook/AddressBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AddressBook/AddressBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ApplicationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HttpRequestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmokeTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +94,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="2560" />
@@ -313,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613155809762</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fixes">
+      <created>1613155958859</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613155958859</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">

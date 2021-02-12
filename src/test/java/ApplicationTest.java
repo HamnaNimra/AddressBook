@@ -34,18 +34,18 @@ public class ApplicationTest {
 
     @Test
     public void addressBookShouldBeEmpty() throws Exception {
-        String url = "/addressbook";
+        String url = "/addressBook";
         this.mockMvc.perform(get(url))
                 .andDo(print())
                 .andExpect(status().isOk())
                 .andExpect(content().contentType("application/hal+json;charset=UTF-8"))
-                .andExpect(jsonPath("_embedded.addressbook", hasSize(0)));
+                .andExpect(jsonPath("_embedded.addressBook", hasSize(0)));
 
     }
 
     @Test
     public void createAddressBook() throws Exception {
-        String url = "/addressbook";
+        String url = "/addressBook";
         this.mockMvc.perform(post(url)
                 .contentType(MediaType.APPLICATION_JSON)
                 .content("{}"))
@@ -59,12 +59,12 @@ public class ApplicationTest {
     public void createNewBuddy() throws Exception {
         String url = "/buddy";
         MvcResult result = this.mockMvc.perform(post(url)
-                .contentType(MediaType.APPLICATION_JSON).content("{\"name\": \"Smartpreet Grewal\",\n" +
+                .contentType(MediaType.APPLICATION_JSON).content("{\"name\": \"Maimz\",\n" +
                         "\t\"phoneNumber\": \"211-311-4111\"}"))
                 .andDo(print())
                 .andExpect(status().is(201))
                 .andReturn();
 
-        assertNotNull(this.buddyRepo.findByName("Smartpreet Grewal"));
+        assertNotNull(this.buddyRepo.findByName("Maimz"));
     }
 }
