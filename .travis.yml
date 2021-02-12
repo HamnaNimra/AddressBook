@@ -3,6 +3,6 @@ jdk:
   - oraclejdk13
 deploy:
   provider: heroku
-  api_key: e8690498-6910-471f-a86a-87ba7532adfb
+  api_key:
     secure: $HEROKU_API_KEY
   app: addressbooklab5
