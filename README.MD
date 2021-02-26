@@ -3,7 +3,7 @@
 ### Github link: 
     https://github.com/HamnaNimra/AddressBook
 ### Heroku Deploy Part 1 & 2: 
-    https://addressbook-lab5.herokuapp.com/
+    https://addressbooklab5.herokuapp.com/
     https://addressbook-lab6-backend.herokuapp.com
     https://addressbook-lab6-backend.herokuapp.com/buddy
     https://addressbook-lab6-backend.herokuapp.com/addressbook
