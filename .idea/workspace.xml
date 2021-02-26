@@ -9,10 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="">
+    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="fix deploy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/AddressBook_jar/AddressBook.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AddressBook_jar/AddressBook.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HttpRequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HttpRequestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmokeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -426,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613161524603</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="fix deploy">
+      <created>1614297400551</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1614297400551</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -465,6 +476,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed lab4 files" />
