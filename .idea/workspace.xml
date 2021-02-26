@@ -9,13 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="fix deploy">
+    <list default="true" id="01f0940d-fdd0-41b2-8a69-d3ecf486133a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApplicationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HttpRequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HttpRequestTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmokeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/AddressBook_jar/AddressBook.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AddressBook_jar/AddressBook.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/addressBook-spa.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/addressBook-spa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/addressbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/addressbook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/addressbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/addressbook.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,16 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="AddressBook" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/resources/templates/addressbook.html" root0="SKIP_HIGHLIGHTING" />
@@ -437,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614297400551</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="adding spa">
+      <created>1614299740435</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1614299740435</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -494,7 +510,8 @@
     <MESSAGE value="fixes" />
     <MESSAGE value="fix travis" />
     <MESSAGE value="fix deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix deploy" />
+    <MESSAGE value="adding spa" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding spa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
